@@ -1,5 +1,5 @@
-This application fetches list of free games fro games-api in the backend built using Golang and return data in json format.
-Frontend requests to fetch data from backend and displays it in the form of cards.
+This application fetches list of free games from games-api(https://www.freetogame.com/api/games) in the backend built using Golang and returns data in json format.
+Frontend fetches data from backend and displays it in the form of cards.
 
 Instructions to run :
 1) To run backend navigate to /Backend folder and run "go run main.go" command. This starts the backend server on port 8080.
